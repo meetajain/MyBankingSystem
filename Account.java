@@ -25,7 +25,7 @@ public abstract class Account {
 	}
 
 	public AccountHolder getAccountHolder() {
-		// complete the function
+		// complete the function just a test
         return this.accountHolder;
 	}
 
